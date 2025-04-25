@@ -30,6 +30,7 @@ EXCLUDED_REQUIREMENTS_ALL = {
     "decora-wifi",
     "evdev",
     "face-recognition",
+    "home-assistant-frontend",
     "pybluez",
     "pycocotools",
     "pycups",

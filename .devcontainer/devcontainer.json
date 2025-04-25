@@ -67,5 +67,8 @@
         ]
       }
     }
-  }
+  },
+  "mounts": [
+    "source=/Users/jaydenang/Documents/vscode/frontend/,target=/workspaces/frontend,type=bind,consistency=cached"
+  ]
 }
